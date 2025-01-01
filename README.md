@@ -1,2 +1,2 @@
 # Logic-Building-Problems
-Logic Building Problems in Python
+A collection of logic-building problems with solutions in Python
