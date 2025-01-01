@@ -10,9 +10,9 @@ Whether you're a beginner or an experienced programmer, these problems will help
 Follow these steps to get started:
 
 1. Clone the Repository
-    Use the following command to clone this repository to your local machine:
-    git clone https://github.com/<your-username>/Logic-Building-Problems.git
-    cd Logic-Building-Problems
+    * Use the following command to clone this repository to your local machine:
+    * git clone https://github.com/<your-username>/Logic-Building-Problems.git
+    * cd Logic-Building-Problems
 
 2. Navigate the Folders
     Each problem is categorized into folders (Basic, Easy, Medium, Hard). Navigate to a folder and open the .py files to explore solutions.
